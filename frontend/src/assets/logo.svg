@@ -1,0 +1,59 @@
+<svg width="664" height="459" viewBox="0 0 664 459" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main Circle Border -->
+  <circle cx="229.5" cy="229.5" r="220" fill="none" stroke="#5a1f8f" stroke-width="18"/>
+  
+  <!-- Inner White Background -->
+  <circle cx="229.5" cy="229.5" r="200" fill="white"/>
+  
+  <!-- Network connections (green lines) -->
+  <g stroke="#6fbd44" stroke-width="4" fill="none">
+    <path d="M 180 120 Q 200 100 220 110"/>
+    <path d="M 200 140 Q 220 130 240 140"/>
+    <path d="M 160 180 Q 180 170 200 180"/>
+    <path d="M 180 220 Q 200 210 220 220"/>
+    <path d="M 140 260 Q 160 250 180 260"/>
+    <circle cx="185" cy="115" r="8" fill="#6fbd44"/>
+    <circle cx="215" cy="135" r="8" fill="#6fbd44"/>
+    <circle cx="175" cy="175" r="8" fill="#6fbd44"/>
+    <circle cx="195" cy="215" r="8" fill="#6fbd44"/>
+    <circle cx="155" cy="255" r="8" fill="#6fbd44"/>
+  </g>
+  
+  <!-- People Icons -->
+  <g fill="#5a1f8f">
+    <!-- Person 1 - Standing person (top) -->
+    <circle cx="200" cy="140" r="12"/>
+    <rect x="194" y="155" width="12" height="25" rx="2"/>
+    <rect x="188" y="160" width="6" height="15" rx="2"/>
+    <rect x="206" y="160" width="6" height="15" rx="2"/>
+    <rect x="194" y="180" width="5" height="20" rx="2"/>
+    <rect x="201" y="180" width="5" height="20" rx="2"/>
+    
+    <!-- Person 2 - Woman (left) -->
+    <circle cx="165" cy="200" r="12"/>
+    <path d="M 165 215 L 155 245 L 175 245 Z" fill="#5a1f8f"/>
+    <rect x="159" y="245" width="5" height="18" rx="2"/>
+    <rect x="166" y="245" width="5" height="18" rx="2"/>
+    
+    <!-- Person 3 - Wheelchair user (bottom) -->
+    <circle cx="200" cy="280" r="10"/>
+    <circle cx="200" cy="305" r="18" fill="none" stroke="#5a1f8f" stroke-width="4"/>
+    <circle cx="215" cy="305" r="6" fill="#5a1f8f"/>
+    <rect x="195" y="290" width="10" height="15" rx="2"/>
+    
+    <!-- Currency/Coin symbols -->
+    <circle cx="255" cy="160" r="14" fill="none" stroke="#6fbd44" stroke-width="3"/>
+    <text x="248" y="168" font-size="18" font-weight="bold" fill="#6fbd44">₹</text>
+    
+    <circle cx="240" cy="230" r="14" fill="none" stroke="#6fbd44" stroke-width="3"/>
+    <text x="233" y="238" font-size="18" font-weight="bold" fill="#6fbd44">$</text>
+  </g>
+  
+  <!-- EquiGram Logo -->
+  <path d="M 318 230 L 355 230 L 355 200 L 318 200 L 318 180 L 318 250 L 318 270 L 355 270 L 340 250" fill="#5a1f8f" stroke="#5a1f8f" stroke-width="2"/>
+  
+  <!-- Text: EquiGram -->
+  <text x="320" y="250" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="#5a1f8f">
+    Equi<tspan fill="#6fbd44">Gram</tspan>
+  </text>
+</svg>
