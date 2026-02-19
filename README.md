@@ -37,4 +37,4 @@ Increase verified rural job placements across Tamil Nadu by improving matching p
 - Update the API base URL in frontend pages if the backend host changes.
 - Matching uses a weighted scoring model with Haversine distance.
 
-Last deployment trigger: 2026-02-19
+Last deployment trigger: 2026-02-19 (vercel)
